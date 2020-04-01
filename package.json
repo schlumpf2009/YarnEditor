@@ -32,7 +32,7 @@
     "jquery-contextmenu": "^2.8.0",
     "jquery-mousewheel": "^3.1.13",
     "jquery.transit": "^0.9.12",
-    "knockout": "3.3.0",
+    "knockout": "3.5.0",
     "knockout-ace": "^1.0.1",
     "lightweight-emoji-picker": "0.0.2",
     "nspell": "^2.1.2",
